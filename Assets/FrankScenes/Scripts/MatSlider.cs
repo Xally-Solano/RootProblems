@@ -12,7 +12,7 @@ public class MatSlider : MonoBehaviour
     public GameObject floor;
 
     public GameObject player;
-    private PlayerController HumanHPScript;
+    private PlayerControllerV2 HumanHPScript;
 
     public HealthBarSickness healthBar;
 
@@ -27,7 +27,7 @@ public class MatSlider : MonoBehaviour
 
         MSickness.SetFloat("_Health", 0f);
 
-        HumanHPScript = player.GetComponent<PlayerController>();
+        HumanHPScript = player.GetComponent<PlayerControllerV2>();
 
         //healthBar.SetMaxHealth(maxHealth);
 
@@ -43,7 +43,7 @@ public class MatSlider : MonoBehaviour
 
         healthBar.SetCurrentHealth(Health * 0.1f);
 
-        print(Health);
+        //print(Health);
 
         /*
         if (Health >= 1f)
