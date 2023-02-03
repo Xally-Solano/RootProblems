@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class MatSlider : MonoBehaviour
 {
     private Material MSickness;
@@ -10,33 +11,41 @@ public class MatSlider : MonoBehaviour
 
     public GameObject floor;
 
-    //private HumanHealth Healthy;
+    public GameObject player;
+    private PlayerController HumanHPScript;
+
+    public HealthBarSickness healthBar;
+
 
     // Start is called before the first frame update
     void Start()
     {
         Time.timeScale = 1f;
 
-        /*
-        MSickness = GetComponent<Renderer>().material;
+        
+        MSickness = floor.GetComponent<Renderer>().material;
 
         MSickness.SetFloat("_Health", 0f);
 
-        Health = floor.GetComponent<HumanHealthy>();
-        */
- 
+        HumanHPScript = player.GetComponent<PlayerController>();
+
+        //healthBar.SetMaxHealth(maxHealth);
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        /*
-        Health = Healthy.HumanHealth;
+        
+        Health = HumanHPScript.patientHP;
 
         MSickness.SetFloat("_Health", Health * 0.1f);
 
+        healthBar.SetCurrentHealth(Health * 0.1f);
+
         print(Health);
 
+        /*
         if (Health >= 1f)
         {
             Perder();
