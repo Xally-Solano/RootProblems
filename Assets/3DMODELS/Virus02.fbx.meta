@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2b34ae7b16d0ec34da7987ea71f8d280
+guid: df7abad55a9e4244db385ace9072584e
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -7,13 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Emmblack
+      name: BlackEMM
     second: {fileID: 2100000, guid: 4c044bad3f4b9c8419e95ea226f1c553, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: TexturaAzil
-    second: {fileID: 2100000, guid: 87fb80bd386f23b458b4d9c7ba48853d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
