@@ -11,7 +11,8 @@ public class PlayerControllerV2 : MonoBehaviour
 
     //Dano al paciente
 
-    public int patientHP; //vida del paciente 
+    public int patientHP; //vida del paciente // numero de enemigos spawneados
+
     public bool patientDamage; //bool para saber si le haces da?o al paciente (si la pones en true ejecutas la funci?n de da?o al paciente)
 
     //Spawnear enemigos si se destruye uno
@@ -28,7 +29,7 @@ public class PlayerControllerV2 : MonoBehaviour
     void Start()
     {
         
-        patientHP = 10; //vida del paciente valor inicial
+        patientHP = 0; //vida del paciente valor inicial
         requireNewEnemy = false;
         lifeIconsPlayer = FindObjectOfType<LifeIconsPlayer>();
 

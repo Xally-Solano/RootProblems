@@ -46,6 +46,9 @@ public class EnemyDamage : MonoBehaviour
             if (enemyHP == 0) //Si la vida del enemigo se reduce a  0
             {
                 playerController.enemiesBeaten = playerController.enemiesBeaten + 1; //Aumenta el contador de enemiesBeaten del player controller
+
+                playerController.patientHP = playerController.patientHP - 1; //reduce barra de enfermedad
+
                 playerController.requireNewEnemy = true; //sE A
                 Destroy(gameObject);
             }
