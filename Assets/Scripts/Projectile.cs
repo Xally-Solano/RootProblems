@@ -9,7 +9,8 @@ public class Projectile : MonoBehaviour
     [SerializeField] private float MinDistanceToEye = 10f;
     public Transform fireOrigin;
     public Vector3 fireDirection = new Vector3();
-
+    public string playerTag = "Player";
+    public string environmentTag = "ParedCuerpo";
 
     private void Awake()
     {
@@ -49,12 +50,12 @@ public class Projectile : MonoBehaviour
 
     void OnTriggerEnter(Collider collision)
     {
-        if (collision.gameObject.CompareTag("Environment"))
+        if (collision.gameObject.CompareTag(environmentTag))
         {
             gameObject.SetActive(false);
         }
 
-        else if (collision.gameObject.CompareTag("Jugador"))
+        else if (collision.gameObject.CompareTag(playerTag))
         {
             Debug.Log("Damage to player!");
             gameObject.SetActive(false);
