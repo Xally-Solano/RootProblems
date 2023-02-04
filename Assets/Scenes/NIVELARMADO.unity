@@ -130,40 +130,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 7880884791759466144, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_Name
       value: Tejido1 (6)
       objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_RootOrder
       value: 42
-      objectReference: {fileID: 0}
-    - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.6234002
       objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
@@ -230,40 +205,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (47)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 92
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.0338998
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -330,30 +280,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (30)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -425,40 +355,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (22)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 48
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 4.2
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -601,45 +506,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 1040406920429632246, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
       propertyPath: m_Name
       value: Tejido4 (11)
       objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
       propertyPath: m_RootOrder
       value: 25
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.10288
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.719899
       objectReference: {fileID: 0}
     - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
@@ -711,30 +586,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (9)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 47
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5.59902
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -786,11 +641,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &52572468 stripped
@@ -887,30 +737,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (23)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 99
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.34147
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -962,11 +792,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &74941261 stripped
@@ -1058,40 +883,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (50)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 96
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 4.333109
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -1158,45 +958,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (16)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 35
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.21673
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.4709997
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -1263,50 +1033,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (36)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 77
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.909472
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2.371017
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -1373,20 +1108,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 2781348499229827008, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 3950353301634491567, guid: 5460ee9d7121feb43b887406c5db27a9,
         type: 3}
       propertyPath: m_RootOrder
       value: 114
-      objectReference: {fileID: 0}
-    - target: {fileID: 3950353301634491567, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 3950353301634491567, guid: 5460ee9d7121feb43b887406c5db27a9,
         type: 3}
@@ -1443,21 +1168,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: CelulasRojas2  (2)
       objectReference: {fileID: 0}
-    - target: {fileID: 4438765590576332309, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4438765590576332309, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4438765590576332309, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5460ee9d7121feb43b887406c5db27a9, type: 3}
 --- !u!4 &151405397 stripped
@@ -1479,50 +1189,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (37)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 78
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3.4010463
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.939836
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -1594,30 +1269,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (10)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 50
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.9993
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -1669,11 +1324,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &191541404 stripped
@@ -1689,30 +1339,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (9)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -1890,35 +1520,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (7)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 40
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.5365899
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5.59902
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -1970,11 +1575,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &208371414 stripped
@@ -1995,30 +1595,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (25)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 110
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5.59902
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -2070,11 +1650,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &225333149 stripped
@@ -2166,45 +1741,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (63)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 109
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.62506
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.5225575
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -2353,30 +1898,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 7880884791759466144, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_Name
       value: Tejido1 (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
@@ -2442,50 +1967,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (56)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 103
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.9298276
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2.3475256
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -2552,45 +2042,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 7880884791759466144, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_Name
       value: Tejido1 (4)
       objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_RootOrder
       value: 34
-      objectReference: {fileID: 0}
-    - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.64789
-      objectReference: {fileID: 0}
-    - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.3174
       objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
@@ -2663,45 +2123,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (4)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3.3848999
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5.3236604
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -2857,21 +2287,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (6)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
@@ -2927,11 +2342,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &434109864 stripped
@@ -2947,30 +2357,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (7)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -3047,30 +2437,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (12)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 57
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.9993
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -3122,11 +2492,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &437575737 stripped
@@ -3142,50 +2507,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 1040406920429632246, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
       propertyPath: m_Name
       value: Tejido4 (12)
       objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
       propertyPath: m_RootOrder
       value: 30
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3.6899707
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.6899707
       objectReference: {fileID: 0}
     - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
@@ -3252,45 +2582,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (60)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 106
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.51061
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.6398182
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -3362,30 +2662,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (21)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 93
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 4.896399
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -3437,11 +2717,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &463047293 stripped
@@ -3457,40 +2732,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (14)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 31
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 4.333109
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -3610,30 +2860,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (13)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 61
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5.59902
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -3685,11 +2915,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &506362233 stripped
@@ -3716,30 +2941,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (8)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 43
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.9993
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -3791,11 +2996,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &525986078 stripped
@@ -3908,30 +3108,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (32)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -4141,30 +3321,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (44)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -4236,30 +3396,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (39)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -4331,45 +3471,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (17)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 37
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.62506
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.5225575
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -4535,50 +3645,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (49)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 95
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.68179
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2.68179
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -4650,40 +3725,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (5)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 32
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.8009138
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.7501433
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -4735,11 +3780,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &643130135 stripped
@@ -4760,35 +3800,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (20)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.32536
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.9993
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -4840,11 +3855,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &646055827 stripped
@@ -5218,35 +4228,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (24)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 107
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.9200833
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.6868746
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -5298,11 +4283,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &740924954 stripped
@@ -5324,50 +4304,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (35)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 76
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.4635742
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.2662065
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -5440,50 +4385,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (2)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.68179
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2.68179
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -5577,50 +4487,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 1040406920429632246, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
       propertyPath: m_Name
       value: Tejido4 (9)
       objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
       propertyPath: m_RootOrder
       value: 17
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3.7453105
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.7453105
       objectReference: {fileID: 0}
     - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
@@ -5681,50 +4556,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (41)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 84
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.4635742
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.2662065
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -5791,45 +4631,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (10)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 26
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3.7988527
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 7.5679226
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -5896,50 +4706,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (8)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 22
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.44317
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.2391548
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -6006,20 +4781,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 2781348499229827008, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 3950353301634491567, guid: 5460ee9d7121feb43b887406c5db27a9,
         type: 3}
       propertyPath: m_RootOrder
       value: 115
-      objectReference: {fileID: 0}
-    - target: {fileID: 3950353301634491567, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 3950353301634491567, guid: 5460ee9d7121feb43b887406c5db27a9,
         type: 3}
@@ -6076,21 +4841,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: CelulasRojas2  (3)
       objectReference: {fileID: 0}
-    - target: {fileID: 4438765590576332309, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4438765590576332309, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4438765590576332309, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5460ee9d7121feb43b887406c5db27a9, type: 3}
 --- !u!4 &918735637 stripped
@@ -6106,50 +4856,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (58)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 105
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.9043076
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.2662065
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -6324,30 +5039,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (18)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 81
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5.59902
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -6399,11 +5094,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &930965557 stripped
@@ -6423,21 +5113,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Tejido2 (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -6494,11 +5169,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!1001 &941143133
@@ -6508,30 +5178,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (6)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -6603,40 +5253,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 7880884791759466144, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_Name
       value: Tejido1 (3)
       objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_RootOrder
       value: 18
-      objectReference: {fileID: 0}
-    - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.3174
       objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
@@ -6966,50 +5591,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (64)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 111
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.78787
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2.78787
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -7076,30 +5666,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (5)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -7294,50 +5864,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (52)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 100
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.9298276
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2.4710796
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -7404,30 +5939,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (23)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -7575,30 +6090,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 7880884791759466144, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_Name
       value: Tejido1 (5)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
@@ -7819,40 +6314,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 7880884791759466144, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_Name
       value: Tejido1 (8)
       objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_RootOrder
       value: 49
-      objectReference: {fileID: 0}
-    - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.6234002
       objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
@@ -7919,40 +6389,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 7880884791759466144, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_Name
       value: Tejido1 (10)
       objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_RootOrder
       value: 56
-      objectReference: {fileID: 0}
-    - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.6234002
       objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
@@ -8025,40 +6470,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (34)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 75
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.0338998
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -8182,40 +6602,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (25)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 55
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 4.2
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -8282,30 +6677,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -8371,40 +6746,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (19)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 41
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 4.2
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -8471,45 +6821,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (12)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 28
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.8116899
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.903816
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -8576,30 +6896,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (27)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -8671,30 +6971,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 7880884791759466144, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_Name
       value: Tejido1 (15)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
@@ -8910,30 +7190,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 7880884791759466144, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_Name
       value: Tejido1 (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
@@ -8999,45 +7259,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (15)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 33
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3.3848999
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5.3236604
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -9104,30 +7334,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 7880884791759466144, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_Name
       value: Tejido1 (14)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
@@ -9275,30 +7485,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (29)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -9370,40 +7560,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (61)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 108
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.5099998
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -9470,40 +7635,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (57)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 104
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3.3474002
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -9570,50 +7710,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 1040406920429632246, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
       propertyPath: m_Name
       value: Tejido4 (2)
       objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
       propertyPath: m_RootOrder
       value: 15
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 5.242915
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.6527307
       objectReference: {fileID: 0}
     - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
@@ -9674,50 +7779,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (45)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 89
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.4635742
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.2662065
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -9789,30 +7859,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (11)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 54
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5.59902
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -9864,11 +7914,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &1437352671 stripped
@@ -9884,40 +7929,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (31)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 68
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 4.2
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -10081,45 +8101,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 7880884791759466144, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_Name
       value: Tejido1 (13)
       objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_RootOrder
       value: 71
-      objectReference: {fileID: 0}
-    - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.7093
-      objectReference: {fileID: 0}
-    - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 4.069803
       objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
@@ -10186,45 +8176,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (54)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 101
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.21673
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.2974496
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -10302,21 +8262,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (2)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
@@ -10372,11 +8317,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &1551405751 stripped
@@ -10392,30 +8332,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (18)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -10596,30 +8516,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (16)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 69
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5.985047
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -10671,11 +8571,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &1561458385 stripped
@@ -10691,30 +8586,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (21)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -10786,50 +8661,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (38)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 79
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.68179
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.7545059
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -10896,20 +8736,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 2781348499229827008, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 3950353301634491567, guid: 5460ee9d7121feb43b887406c5db27a9,
         type: 3}
       propertyPath: m_RootOrder
       value: 116
-      objectReference: {fileID: 0}
-    - target: {fileID: 3950353301634491567, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 3950353301634491567, guid: 5460ee9d7121feb43b887406c5db27a9,
         type: 3}
@@ -10965,21 +8795,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CelulasRojas2  (4)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4438765590576332309, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4438765590576332309, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4438765590576332309, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5460ee9d7121feb43b887406c5db27a9, type: 3}
@@ -11084,20 +8899,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 2781348499229827008, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 3950353301634491567, guid: 5460ee9d7121feb43b887406c5db27a9,
         type: 3}
       propertyPath: m_RootOrder
       value: 113
-      objectReference: {fileID: 0}
-    - target: {fileID: 3950353301634491567, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 3950353301634491567, guid: 5460ee9d7121feb43b887406c5db27a9,
         type: 3}
@@ -11153,21 +8958,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CelulasRojas2  (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4438765590576332309, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4438765590576332309, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4438765590576332309, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5460ee9d7121feb43b887406c5db27a9, type: 3}
@@ -11279,30 +9069,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (17)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 80
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.34147
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -11354,11 +9124,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &1611316804 stripped
@@ -11565,40 +9330,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (28)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 62
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 4.2
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -11670,30 +9410,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (3)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.9993
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -11745,11 +9465,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &1641953990 stripped
@@ -11765,40 +9480,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 7880884791759466144, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_Name
       value: Tejido1 (12)
       objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_RootOrder
       value: 63
-      objectReference: {fileID: 0}
-    - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.6234002
       objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
@@ -11865,40 +9555,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (48)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 94
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 4.2
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -11965,30 +9630,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (11)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -12065,30 +9710,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (15)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 67
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5.59902
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -12140,11 +9765,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &1683987216 stripped
@@ -12160,40 +9780,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (33)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 74
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2.938537
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -12336,30 +9931,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (24)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -12431,50 +10006,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 1040406920429632246, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
       propertyPath: m_Name
       value: Tejido4 (8)
       objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
       propertyPath: m_RootOrder
       value: 16
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 4.1221
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 4.1221
       objectReference: {fileID: 0}
     - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
@@ -12639,50 +10179,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (43)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 86
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3.159
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 4.5627637
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -12749,30 +10254,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 7880884791759466144, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_Name
       value: Tejido1 (9)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
@@ -12844,30 +10329,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (3)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -13112,30 +10577,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 7880884791759466144, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_Name
       value: Tejido1 (7)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
@@ -13207,45 +10652,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (46)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 91
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.20278
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2.48769
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -13409,45 +10824,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (65)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 112
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3.0043693
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5.3236604
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -13514,40 +10899,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (51)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 98
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.9407601
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -13614,30 +10974,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (13)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -13928,30 +11268,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (26)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -14453,30 +11773,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (40)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -14553,30 +11853,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (14)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 64
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.9993
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -14628,11 +11908,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &2058693444 stripped
@@ -14653,35 +11928,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (19)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 87
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.34147
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.4754999
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -14733,11 +11983,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &2067082387 stripped
@@ -14753,30 +11998,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (20)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -14848,50 +12073,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (55)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 102
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3.0496645
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.2659585
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -14958,30 +12148,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 7880884791759466144, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_Name
       value: Tejido1 (11)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
@@ -15059,6 +12229,7 @@ GameObject:
   - component: {fileID: 2113390961}
   - component: {fileID: 2113390960}
   - component: {fileID: 2113390959}
+  - component: {fileID: 2113390964}
   m_Layer: 5
   m_Name: UICanvas (1)
   m_TagString: Untagged
@@ -15082,6 +12253,7 @@ MonoBehaviour:
   floor: {fileID: 527429260}
   player: {fileID: 2028199310}
   healthBar: {fileID: 1796551180}
+  MaterialHealth: 0
 --- !u!114 &2113390960
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15166,6 +12338,21 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &2113390964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2113390958}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30c009430288c9c4d83077e901c96d0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WallMat: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
+  floor: {fileID: 2113390958}
+  floorSickness: 0
 --- !u!1 &2118414443
 GameObject:
   m_ObjectHideFlags: 0
@@ -15230,50 +12417,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3 (42)
       objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_RootOrder
       value: 85
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.2704134
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.0101142
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
@@ -15345,35 +12497,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2 (22)
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 97
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.8954899
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5.59902
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -15425,11 +12552,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &2126570249 stripped
@@ -15598,45 +12720,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 1040406920429632246, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
       propertyPath: m_Name
       value: Tejido4 (10)
       objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
       propertyPath: m_RootOrder
       value: 24
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.10288
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 4.481482
       objectReference: {fileID: 0}
     - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
@@ -15779,40 +12871,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 7880884791759466144, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_Name
       value: Tejido1
       objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8529389462750646133, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
       propertyPath: m_RootOrder
       value: 11
-      objectReference: {fileID: 0}
-    - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.6234002
       objectReference: {fileID: 0}
     - target: {fileID: 9013297326827378127, guid: 2a3e4bb9ef3042c48a3bffa85ff6a774,
         type: 3}
@@ -15878,30 +12945,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CelulasRojas1
       objectReference: {fileID: 0}
-    - target: {fileID: 4764171477273895549, guid: 4a0b0cb97c839ce4bb7c062c68ea5ba5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4764171477273895549, guid: 4a0b0cb97c839ce4bb7c062c68ea5ba5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4764171477273895549, guid: 4a0b0cb97c839ce4bb7c062c68ea5ba5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5284530076476848327, guid: 4a0b0cb97c839ce4bb7c062c68ea5ba5,
         type: 3}
       propertyPath: m_RootOrder
       value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 5284530076476848327, guid: 4a0b0cb97c839ce4bb7c062c68ea5ba5,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5284530076476848327, guid: 4a0b0cb97c839ce4bb7c062c68ea5ba5,
         type: 3}
@@ -15953,11 +13000,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6421359870118380456, guid: 4a0b0cb97c839ce4bb7c062c68ea5ba5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a0b0cb97c839ce4bb7c062c68ea5ba5, type: 3}
 --- !u!4 &1444168295630155915 stripped
@@ -15973,20 +13015,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 2781348499229827008, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 3950353301634491567, guid: 5460ee9d7121feb43b887406c5db27a9,
         type: 3}
       propertyPath: m_RootOrder
       value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 3950353301634491567, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 3950353301634491567, guid: 5460ee9d7121feb43b887406c5db27a9,
         type: 3}
@@ -16042,21 +13074,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: 'CelulasRojas2 '
-      objectReference: {fileID: 0}
-    - target: {fileID: 4438765590576332309, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4438765590576332309, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4438765590576332309, guid: 5460ee9d7121feb43b887406c5db27a9,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5460ee9d7121feb43b887406c5db27a9, type: 3}
@@ -16161,30 +13178,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tejido2
       objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4766997232238898927, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
       propertyPath: m_RootOrder
       value: 12
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3.9993
       objectReference: {fileID: 0}
     - target: {fileID: 5290627943757706325, guid: 21de4f1ebbf428a4482406a0af9519ab,
         type: 3}
@@ -16236,11 +13233,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6424168032027873082, guid: 21de4f1ebbf428a4482406a0af9519ab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21de4f1ebbf428a4482406a0af9519ab, type: 3}
 --- !u!4 &5064961319428999532 stripped
@@ -16262,50 +13254,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 1040406920429632246, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
       propertyPath: m_Name
       value: Tejido4
       objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1544937964881009443, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
       propertyPath: m_RootOrder
       value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3.5036998
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5.184625
       objectReference: {fileID: 0}
     - target: {fileID: 2178449504788742553, guid: 978e711a843574941bfdb8f45adf71bd,
         type: 3}
@@ -16372,30 +13329,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1928064684}
     m_Modifications:
-    - target: {fileID: 3238370130708699151, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 269c9dc65b3f55e4e9a93c1d4924a153, type: 2}
     - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}
       propertyPath: m_Name
       value: Tejido3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_TagString
-      value: ParedCuerpo
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4031280260725029338, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4375859076202980192, guid: 03f5c6eb6c0289e46bc257351ec9bed5,
         type: 3}

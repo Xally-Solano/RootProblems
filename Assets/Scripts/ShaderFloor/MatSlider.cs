@@ -16,7 +16,7 @@ public class MatSlider : MonoBehaviour
 
     public HealthBarSickness healthBar;
 
-    private float MaterialHealth = 0f;
+    public float MaterialHealth = 0f;
 
 
     // Start is called before the first frame update

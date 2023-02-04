@@ -33,7 +33,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: HealthShader 1
+  m_Name: HealthShader
   m_Shader: {fileID: -6465566751694194690, guid: 817e1d358b5d66b43920776030d097de,
     type: 3}
   m_ValidKeywords: []
