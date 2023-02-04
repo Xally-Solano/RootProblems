@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-8612159870629449500
+--- !u!114 &-1837836435065729118
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -13,19 +13,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 5
---- !u!114 &-7082937365082466484
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 639247ca83abc874e893eb93af2b5e44, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 0
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -33,12 +20,12 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: HealthShader
-  m_Shader: {fileID: -6465566751694194690, guid: 817e1d358b5d66b43920776030d097de,
+  m_Name: BlackOutline
+  m_Shader: {fileID: -6465566751694194690, guid: 0419d5ba841132a44a63e2839d2deaeb,
     type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
-  m_LightmapFlags: 4
+  m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -47,11 +34,7 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _Background:
-        m_Texture: {fileID: 2800000, guid: e9595499449808048a496339042d6042, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _Triplanar_98e5f4e53ce24fd3a5867187391f1fa8_Texture_1:
+    - _Texture2D:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -69,23 +52,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AtmosphereThickness: 1
-    - _BUILTIN_QueueControl: 0
-    - _BUILTIN_QueueOffset: 0
-    - _BackgroundScale: 3.26
-    - _Exposure: 1.3
-    - _Float: 1
-    - _Float_1: 0
-    - _Health: 0
-    - _Healthy: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Sick: 0
-    - _SunDisk: 2
-    - _SunSize: 0.04
-    - _SunSizeConvergence: 5
-    - __Health: 1.8
+    - _Texture: 0
     m_Colors:
-    - _GroundColor: {r: 0.36899996, g: 0.34899998, b: 0.34099993, a: 1}
-    - _SkyTint: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _Color: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []

@@ -16,6 +16,8 @@ public class MatSlider : MonoBehaviour
 
     public HealthBarSickness healthBar;
 
+    private float MaterialHealth = 0f;
+
 
     // Start is called before the first frame update
     void Start()
@@ -29,6 +31,8 @@ public class MatSlider : MonoBehaviour
 
         HumanHPScript = player.GetComponent<PlayerControllerV2>();
 
+        MaterialHealth = Health;
+
         //healthBar.SetMaxHealth(maxHealth);
 
     }
@@ -39,7 +43,11 @@ public class MatSlider : MonoBehaviour
         
         Health = HumanHPScript.patientHP;
 
-        MSickness.SetFloat("_Health", Health * 0.1f);
+        float delta = Health - MaterialHealth;
+        delta *= Time.deltaTime;
+        MaterialHealth += delta;
+
+        MSickness.SetFloat("_Health", MaterialHealth * 0.1f);
 
         healthBar.SetCurrentHealth(Health * 0.1f);
 
