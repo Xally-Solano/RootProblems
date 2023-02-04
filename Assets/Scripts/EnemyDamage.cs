@@ -6,13 +6,13 @@ public class EnemyDamage : MonoBehaviour
 {
     public int enemyHP; //Vida del enemigo
     public bool enemyDamage; //Bool para saber si dañas al enemigo
-    public PlayerController playerController; //referencia al player controler
+    public PlayerControllerV2 playerController; //referencia al player controler
 
     // Start is called before the first frame update
     void Start()
     {
         enemyHP = 3; //Valor inicial de la vida del enemigo
-        playerController = FindObjectOfType<PlayerController>(); //encontral el script del player controler 
+        playerController = FindObjectOfType<PlayerControllerV2>(); //encontral el script del player controler 
     }
 
     // Update is called once per frame
@@ -32,12 +32,6 @@ public class EnemyDamage : MonoBehaviour
             playerController.canTakeDamage = false; //bool del player controles que determina si puede recibir daño el jugador
             enemyDamage = true;
 
-        }
-
-        if (other.CompareTag("Player"))
-        {
-            other.transform.Translate(Vector3.right * playerController.horizontalMove);
-            other.transform.Translate(Vector3.forward * playerController.verticalMove);
         }
     }
 
