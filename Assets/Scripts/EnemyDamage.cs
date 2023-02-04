@@ -7,7 +7,7 @@ public class EnemyDamage : MonoBehaviour
     public int enemyHP; //Vida del enemigo
     public bool enemyDamage; //Bool para saber si dañas al enemigo
     public PlayerController playerController; //referencia al player controler
-    public float pushForce = 5f;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -36,8 +36,6 @@ public class EnemyDamage : MonoBehaviour
 
         if (other.CompareTag("Player"))
         {
-            
-
             other.transform.Translate(Vector3.right * playerController.horizontalMove);
             other.transform.Translate(Vector3.forward * playerController.verticalMove);
         }
