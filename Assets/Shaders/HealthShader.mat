@@ -72,9 +72,9 @@ Material:
     - _AtmosphereThickness: 1
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
-    - _BackgroundScale: 3.52
+    - _BackgroundScale: 3.64
     - _Exposure: 1.3
-    - _Health: 0.91
+    - _Health: 1.8
     - _Healthy: 0
     - _QueueControl: 0
     - _QueueOffset: 0
