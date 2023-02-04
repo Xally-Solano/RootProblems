@@ -9,7 +9,8 @@ public class PlayerController : MonoBehaviour
     public float horizontalMove;  //para movimiento horizontal
     public float verticalMove;    //para movimiento vertical
     public CharacterController player; //para recibir el script
-    float playerSpeed = 3; //velocidad
+    //public Rigidbody player;
+    public float playerSpeed = 3; //velocidad
     public LifeIconsPlayer lifeIconsPlayer; //para meter el script que hace que bajen los iconos de vida
     public bool canTakeDamage; //bool para determinar si puede recibir daño el jugador
 
@@ -47,6 +48,7 @@ public class PlayerController : MonoBehaviour
     private void FixedUpdate()
     {
         player.Move(new Vector3(horizontalMove, 0, verticalMove) * playerSpeed * Time.deltaTime); //vector de movimiento
+        //player.MovePosition(new Vector3(horizontalMove, 0, verticalMove) * playerSpeed * Time.deltaTime);
     }
 
     //Colisiones 
