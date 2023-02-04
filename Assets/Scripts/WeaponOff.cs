@@ -5,10 +5,12 @@ using UnityEngine;
 public class WeaponOff : MonoBehaviour
 {
     public Attack atack;
+    PlayerControllerV2 playerControllerV2;
 
     private void Start()
     {
         atack = FindObjectOfType<Attack>();
+        playerControllerV2 = FindObjectOfType<PlayerControllerV2>();
     }
 
     void Update()
@@ -20,4 +22,5 @@ public class WeaponOff : MonoBehaviour
         atack.canAtack = true;
         atack.weapon.SetActive(false);
     }
+
 }

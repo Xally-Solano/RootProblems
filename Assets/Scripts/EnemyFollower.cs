@@ -8,7 +8,7 @@ using UnityEngine.AI;
 public class EnemyFollower : MonoBehaviour
 {
     NavMeshAgent agent;
-    [SerializeField] Transform agentTarget;
+    Transform agentTarget;
 
     [SerializeField] float PathCalculateRefreshRate = .25f;
     
@@ -16,7 +16,8 @@ public class EnemyFollower : MonoBehaviour
     private void Awake()
     {
         agent = GetComponent<NavMeshAgent>();
-    
+        agentTarget = FindObjectOfType<PlayerControllerV2>().gameObject.transform;
+
     }
 
     private void Start()
@@ -30,7 +31,7 @@ public class EnemyFollower : MonoBehaviour
         while (agentTarget != null)
         {
 
-            if(agentTarget != null)
+            if(agentTarget != null && agent != null)
             {
                 agent.SetDestination(agentTarget.position);
             }

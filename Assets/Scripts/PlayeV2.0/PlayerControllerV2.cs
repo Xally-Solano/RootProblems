@@ -9,23 +9,28 @@ public class PlayerControllerV2 : MonoBehaviour
      public Rigidbody playerRB;
      public float Speed;
 
-    //Daño al paciente
+    //Dano al paciente
 
     public int patientHP; //vida del paciente 
-    public bool patientDamage; //bool para saber si le haces daño al paciente (si la pones en true ejecutas la función de daño al paciente)
+    public bool patientDamage; //bool para saber si le haces da?o al paciente (si la pones en true ejecutas la funci?n de da?o al paciente)
 
-    //Daño al jugador
-    public int vidas; //vidas del jugador 
-    public bool playerDamage; //bool para saber si le haces daño al jugador (si la pones en true ejecutas la función de recibir daño)
-    public bool canTakeDamage; //bool para determinar si puede recibir daño el jugador
+    //Spawnear enemigos si se destruye uno
+    public int enemiesBeaten;
+    public bool requireNewEnemy;
+
+    //Salud del jugador
+    public int vidas;
+    public bool playerDamage;
+    public LifeIconsPlayer lifeIconsPlayer;
+
 
     // Start is called before the first frame update
     void Start()
     {
         
         patientHP = 10; //vida del paciente valor inicial
-        vidas = 6;      // vida del jugador valor inicial
-        canTakeDamage = true;
+        requireNewEnemy = false;
+        lifeIconsPlayer = FindObjectOfType<LifeIconsPlayer>();
 
     }
 
@@ -35,8 +40,9 @@ public class PlayerControllerV2 : MonoBehaviour
 
         MovePlayer();
 
-        PatientDamage(); //Llamar a la función para que el paciente reciba daño
-        PlayerDamage();  //Llamar a la función para que el player reciba daño
+        PatientDamage(); //Llamar a la funcion para que el paciente reciba da?o
+        PlayerDamage();
+        
     }
 
     public void MovePlayer()
@@ -49,7 +55,7 @@ public class PlayerControllerV2 : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        //Hacer daño al paciente con colisión
+        //Hacer dano al paciente con colision
 
         if (other.CompareTag("ParedCuerpo"))
         {
@@ -59,34 +65,27 @@ public class PlayerControllerV2 : MonoBehaviour
             this.transform.Translate(Vector3.forward * -(Input.GetAxis("Vertical")));
         }
 
-        //Hacer daño al jugador con colisión
+        //Hacer da?o al jugador con colision
 
         if (other.CompareTag("Enemigo"))
         {
             this.transform.Translate(Vector3.right * -(Input.GetAxis("Horizontal")));
             this.transform.Translate(Vector3.forward * -(Input.GetAxis("Vertical")));
 
-            if (canTakeDamage == true) //Si puede recibir daño recibe daño
-            {
-                playerDamage = true;
-            }
-            else //Si no puede recibir daño entonces no recibe daño
-            {
-                return;
-            }
+            playerDamage = true;
         }
     }
 
-    //Función para el daño del paciente 
+    //Funcion para el dano del paciente 
 
     public void PatientDamage()
     {
         if (patientDamage == true)
         {
             patientHP = patientHP + 1;
-            patientDamage = false;   //poner la bool en false para que no reciba daño infinito
+            patientDamage = false;   //poner la bool en false para que no reciba da?o infinito
 
-            //Perder por daño al paciente
+            //Perder por da?o al paciente
 
             if (patientHP == 18)
             {
@@ -95,26 +94,16 @@ public class PlayerControllerV2 : MonoBehaviour
         }
     }
 
-    //Función para el daño del jugador 
 
     public void PlayerDamage()
     {
-        if (playerDamage == true)
-        {
-            vidas = vidas - 1;
-            playerDamage = false;  //poner la bool en false para que no reciba daño infinito
-
-            if (LifeIconsPlayer.iconsHPS != null)   //Si la lista de íconos de vida del player no está vacía
+            if (playerDamage == true)
             {
-                LifeIconsPlayer.iconsHPS.reduceIcons();   //Llama a la variable static del script de iconos de vida 
+                vidas = vidas - 1;
+                lifeIconsPlayer.reduceIcons();
+                playerDamage = false;
             }
-
-            //Perder por vida del jugador 
-
-            if (vidas == 0)
-            {
-                Destroy(gameObject);
-            }
-        }
     }
+
+
 }

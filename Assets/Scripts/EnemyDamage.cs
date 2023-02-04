@@ -6,12 +6,13 @@ public class EnemyDamage : MonoBehaviour
 {
     public int enemyHP; //Vida del enemigo
     public bool enemyDamage; //Bool para saber si dañas al enemigo
-    public PlayerControllerV2 playerController; //referencia al player controler
+    PlayerControllerV2 playerController; //referencia al player controler
+    
 
     // Start is called before the first frame update
     void Start()
     {
-        enemyHP = 3; //Valor inicial de la vida del enemigo
+        
         playerController = FindObjectOfType<PlayerControllerV2>(); //encontral el script del player controler 
     }
 
@@ -23,27 +24,13 @@ public class EnemyDamage : MonoBehaviour
 
     //Colisiones
 
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter(Collider collision)
     {
         //Hacer daño al enemigo con el arma y no recibir daño del enemigo si lo tocas con el arma
 
-        if (other.CompareTag("Arma"))
+        if (collision.CompareTag("Arma"))
         {
-            playerController.canTakeDamage = false; //bool del player controles que determina si puede recibir daño el jugador
             enemyDamage = true;
-
-        }
-    }
-
-    //Cuando dejas de tocar al enemigo con el arma puedes recibir daño de nuevo
-
-    private void OnTriggerExit(Collider other)
-    {
-
-        if (other.CompareTag("Arma"))
-        {
-            playerController.canTakeDamage = true;
-
         }
     }
 
@@ -51,13 +38,15 @@ public class EnemyDamage : MonoBehaviour
 
     public void ReduceEnemyHP()
     {
-        if (enemyDamage == true)
+        if (enemyDamage == true) 
         {
             enemyHP = enemyHP - 1;
             enemyDamage = false;
 
-            if (enemyHP == 0)
+            if (enemyHP == 0) //Si la vida del enemigo se reduce a  0
             {
+                playerController.enemiesBeaten = playerController.enemiesBeaten + 1; //Aumenta el contador de enemiesBeaten del player controller
+                playerController.requireNewEnemy = true; //sE A
                 Destroy(gameObject);
             }
         }

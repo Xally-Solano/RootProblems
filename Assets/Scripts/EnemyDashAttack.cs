@@ -6,7 +6,7 @@ using UnityEngine.AI;
 
 public class EnemyDashAttack : MonoBehaviour
 {
-    public Transform player;
+    Transform player;
     NavMeshAgent agent;
     public float dashSpeed = 20f;
     public float dashDistance = 10f;
@@ -16,11 +16,17 @@ public class EnemyDashAttack : MonoBehaviour
     private float nextAttack;
     private bool isDashing = false;
 
+    private void Awake()
+    {
+        player = FindObjectOfType<PlayerControllerV2>().gameObject.transform;
+    }
+
     private void Start()
     {
         agent = GetComponent<NavMeshAgent>();
         dashTime = dashDuration;
         nextAttack = coolDown;
+        
     }
 
     private void Update()
