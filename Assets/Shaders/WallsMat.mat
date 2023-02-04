@@ -33,7 +33,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: HealthShader
+  m_Name: WallsMat
   m_Shader: {fileID: -6465566751694194690, guid: 817e1d358b5d66b43920776030d097de,
     type: 3}
   m_ValidKeywords: []
@@ -48,6 +48,10 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Background:
+        m_Texture: {fileID: 2800000, guid: e9595499449808048a496339042d6042, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureWalls:
         m_Texture: {fileID: 2800000, guid: e9595499449808048a496339042d6042, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -72,7 +76,7 @@ Material:
     - _AtmosphereThickness: 1
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
-    - _BackgroundScale: 3.26
+    - _BackgroundScale: 2.62
     - _Exposure: 1.3
     - _Float: 1
     - _Float_1: 0
@@ -84,6 +88,9 @@ Material:
     - _SunDisk: 2
     - _SunSize: 0.04
     - _SunSizeConvergence: 5
+    - _WallNoise: 0.61
+    - _Walls: 1
+    - _WallsScale: 3.36
     - __Health: 1.8
     m_Colors:
     - _GroundColor: {r: 0.36899996, g: 0.34899998, b: 0.34099993, a: 1}

@@ -103,6 +103,11 @@ public class PlayerControllerV2 : MonoBehaviour
                 lifeIconsPlayer.reduceIcons();
                 playerDamage = false;
             }
+
+        if (vidas <= 0)
+        {
+            Destroy(gameObject);
+        }
     }
 
 
