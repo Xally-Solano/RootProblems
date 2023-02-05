@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cc18af467eed6d3448f5b71d457d7da0
+guid: 5d7f7dc33609cdf42b6011e8ac939fbf
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -7,13 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: BlackOutline
-    second: {fileID: 2100000, guid: 4c044bad3f4b9c8419e95ea226f1c553, type: 2}
+      name: Cosa
+    second: {fileID: 2100000, guid: a63ce43f3257cb846b08b309a5d23826, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: EmmText
-    second: {fileID: 2100000, guid: a63ce43f3257cb846b08b309a5d23826, type: 2}
+      name: EmmNegro
+    second: {fileID: 2100000, guid: 4c044bad3f4b9c8419e95ea226f1c553, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
