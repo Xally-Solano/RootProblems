@@ -137,6 +137,7 @@ MonoBehaviour:
   enemyHP: 1
   enemyDamage: 0
   valorenfemmedad: 0.2
+  stain: {fileID: 7196476209967102525, guid: 504dda62fc6d948489c4dfff56bb8966, type: 3}
 --- !u!114 &7602625514708990796
 MonoBehaviour:
   m_ObjectHideFlags: 0
