@@ -5,22 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/FINALES/TITLE_SCREEN.unity
-    guid: 2add090c2378a3e45afcc697c92ac239
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/FINALES/MAIN_MENU.unity
-    guid: a5e76d416007044429ee2cfd751e3958
-  - enabled: 1
-    path: Assets/Scenes/FINALES/NIVELCENEMIGOS.unity
-    guid: 89e12573a540b3841986215c327fef7a
-  - enabled: 1
-    path: Assets/Scenes/FINALES/WINSCREEN.unity
-    guid: a027b335d2d07384d9158586c912c92f
-  - enabled: 1
-    path: Assets/Scenes/FINALES/LOOSESCREEN.unity
-    guid: 11f86070a791da94b99ef7ed710765b0
+    path: Assets/FrankScenes/GAME.unity
+    guid: a831762cb3952f84f9c6fe123904850d
   m_configObjects: {}

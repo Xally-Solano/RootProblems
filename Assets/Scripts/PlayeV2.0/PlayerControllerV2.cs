@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class PlayerControllerV2 : MonoBehaviour
 {
@@ -44,13 +43,7 @@ public class PlayerControllerV2 : MonoBehaviour
 
         PatientDamage(); //Llamar a la funcion para que el paciente reciba da?o
         PlayerDamage();
-
-        if (patientHP >= 18)
-        {
-            Destroy(gameObject);
-            SceneManager.LoadScene("LOOSESCREEN");
-        }
-
+        
     }
 
     public void MovePlayer()
@@ -95,10 +88,9 @@ public class PlayerControllerV2 : MonoBehaviour
 
             //Perder por da?o al paciente
 
-            if (patientHP >= 18)
+            if (patientHP == 18)
             {
                 Destroy(gameObject);
-                SceneManager.LoadScene("LOOSESCREEN");
             }
         }
     }
@@ -116,7 +108,6 @@ public class PlayerControllerV2 : MonoBehaviour
         if (vidas <= 0)
         {
             Destroy(gameObject);
-            SceneManager.LoadScene("LOOSESCREEN");
         }
     }
 

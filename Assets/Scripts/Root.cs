@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class Root : MonoBehaviour
 {
@@ -47,8 +46,6 @@ public class Root : MonoBehaviour
             if (rootHP == 0) //Si la vida del enemigo se reduce a  0
             {
                 Destroy(this.gameObject);
-
-                SceneManager.LoadScene("WINSCREEN");
 
                 //Lo que pasa cuando ganas va acá
             }

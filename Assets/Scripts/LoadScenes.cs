@@ -19,7 +19,7 @@ public class LoadScenes : MonoBehaviour
 
     public void GAMEM()
     {
-        SceneManager.LoadScene("NIVELCENEMIGOS");
+        SceneManager.LoadScene("GAME");
     }
 
     public void WINM()
@@ -30,21 +30,6 @@ public class LoadScenes : MonoBehaviour
     public void LOOSEM()
     {
         SceneManager.LoadScene("LOOSESCREEN");
-    }
-
-    public void TIME0()
-    {
-        Time.timeScale = 0f;
-    }
-
-    public void TIME1()
-    {
-        Time.timeScale = 1.0f;
-    }
-
-    public void QUIT()
-    {
-        Application.Quit();
     }
 
 }
