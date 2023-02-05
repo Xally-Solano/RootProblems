@@ -28,7 +28,7 @@ public class EnemyFollower : MonoBehaviour
     IEnumerator UpdatePath()
     {
 
-        while (agentTarget != null)
+        while (agentTarget != null && agent != null)
         {
 
             if(agentTarget != null && agent != null)
