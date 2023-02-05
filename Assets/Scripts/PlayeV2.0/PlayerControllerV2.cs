@@ -55,7 +55,7 @@ public class PlayerControllerV2 : MonoBehaviour
         if (patientHP >= 18)
         {
             Destroy(gameObject);
-            SceneManager.LoadScene("LOOSESCREEN");
+            SceneManager.LoadScene("LOOSEPATIENT");
         }
 
         if (enemiesBeaten % NumEnemiesHealthUP == 0 && vidas < 6 && vidas > 0)
@@ -116,7 +116,7 @@ public class PlayerControllerV2 : MonoBehaviour
             if (patientHP >= 18)
             {
                 Destroy(gameObject);
-                SceneManager.LoadScene("LOOSESCREEN");
+                SceneManager.LoadScene("LOOSEPATIENT");
             }
         }
     }

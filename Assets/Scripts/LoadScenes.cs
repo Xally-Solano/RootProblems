@@ -32,6 +32,11 @@ public class LoadScenes : MonoBehaviour
         SceneManager.LoadScene("LOOSESCREEN");
     }
 
+    public void LOOSEP()
+    {
+        SceneManager.LoadScene("LOOSEPATIENT");
+    }
+
     public void TIME0()
     {
         Time.timeScale = 0f;

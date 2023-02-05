@@ -122,7 +122,7 @@ MonoBehaviour:
   minDistanceFromTarget: 20
   checkDistanceRefreshRate: 1
   ShootPivot: {fileID: 5410099448904322350}
-  fireRate: 1
+  fireRate: 2
 --- !u!114 &6190506116033887291
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -137,7 +137,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyHP: 1
   enemyDamage: 0
-  hitToEnemy: {fileID: 8300000, guid: a11bfcc6963554f51827339a255435a3, type: 3}
   valorenfemmedad: 0.2
   stain: {fileID: 7196476209967102525, guid: 504dda62fc6d948489c4dfff56bb8966, type: 3}
 --- !u!114 &7602625514708990796

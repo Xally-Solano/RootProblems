@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FINALES/LOOSESCREEN.unity
     guid: 11f86070a791da94b99ef7ed710765b0
+  - enabled: 1
+    path: Assets/Scenes/FINALES/LOOSEPATIENT.unity
+    guid: a016f29f138d7499c90e8e128e414f58
   m_configObjects: {}

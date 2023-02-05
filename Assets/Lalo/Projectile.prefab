@@ -111,7 +111,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a435976964ef0424aa0749cdde2ddd99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 6
+  speed: 3
   rb: {fileID: 0}
   MinDistanceToEye: 10
   fireOrigin: {fileID: 0}
