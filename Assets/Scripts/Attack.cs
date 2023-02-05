@@ -7,6 +7,8 @@ public class Attack : MonoBehaviour
     public GameObject weapon;
     public Animator animator;
     public bool canAtack;
+    public AudioClip attacksound;
+    AudioSource weaponSound;
 
 
     // Start is called before the first frame update
@@ -15,6 +17,7 @@ public class Attack : MonoBehaviour
         animator = GetComponentInChildren<Animator>();
         weapon.SetActive(false);
         canAtack = true;
+        weaponSound = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -27,6 +30,7 @@ public class Attack : MonoBehaviour
             {
                 weapon.SetActive(true);
                 StartAtack();
+                weaponSound.PlayOneShot(attacksound, 0.1f);
             }
         }
         else

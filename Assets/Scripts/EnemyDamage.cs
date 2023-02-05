@@ -7,6 +7,7 @@ public class EnemyDamage : MonoBehaviour
     public int enemyHP; //Vida del enemigo
     public bool enemyDamage; //Bool para saber si dañas al enemigo
     PlayerControllerV2 playerController; //referencia al player controler
+    AudioSource enemySound;
 
     public float valorenfemmedad = 0.3f;
 
@@ -14,7 +15,8 @@ public class EnemyDamage : MonoBehaviour
     void Start()
     {
         
-        playerController = FindObjectOfType<PlayerControllerV2>(); //encontral el script del player controler 
+        playerController = FindObjectOfType<PlayerControllerV2>(); //encontral el script del player controler
+        enemySound= GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -32,6 +34,10 @@ public class EnemyDamage : MonoBehaviour
         if (collision.CompareTag("Arma"))
         {
             enemyDamage = true;
+            if (!enemySound.isPlaying)
+            {
+                enemySound.Play();
+            } 
         }
     }
 
@@ -43,6 +49,7 @@ public class EnemyDamage : MonoBehaviour
         {
             enemyHP = enemyHP - 1;
             enemyDamage = false;
+
 
             if (enemyHP == 0) //Si la vida del enemigo se reduce a  0
             {
