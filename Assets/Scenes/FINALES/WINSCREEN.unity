@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028352, g: 0.22571376, b: 0.30692244, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -866,7 +866,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 1.9}
+  m_AnchoredPosition: {x: 0, y: 1.8999939}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &799636551
@@ -1041,7 +1041,7 @@ MonoBehaviour:
     topLeft: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
     topRight: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
     bottomLeft: {r: 0.6132076, g: 0.6132076, b: 0.6132076, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 0.6132076, g: 0.6132076, b: 0.6132076, a: 1}
   m_fontColorGradientPreset: {fileID: 0}
   m_spriteAsset: {fileID: 0}
   m_tintAllSprites: 0
@@ -1134,10 +1134,10 @@ RectTransform:
   m_Father: {fileID: 1636650312}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMin: {x: 0.079, y: 0.11247649}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -46.2, y: -25.324993}
-  m_SizeDelta: {x: -24.700073, y: -208.15001}
+  m_AnchoredPosition: {x: 2, y: 21}
+  m_SizeDelta: {x: 468.07556, y: -471.29932}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &986439820
 MonoBehaviour:
@@ -1159,7 +1159,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'GAME BY: Franco, Dariana, Eduardo, Xally'
+  m_text: "GAME BY: Franco, Dariana, Eduardo, Xally\n\nBullet train from Shangai
+    to Beijing,  by taurindb  (www.taurinbarrera.com) \nof\_Freesound.org\n\nLong
+    Wispy Woosh, by Newagesoup (\_http://freesound.org/people/newagesoup/\_) \nof
+    Freesound.org\n\nCipher2 by Kevin MacLeod | https://incompetech.com/, music promoted
+    by \nhttps://www.chosic.com/free-music/all/, creative Commons CC BY 3.0 \n https://creativecommons.org/licenses/by/3.0/\n\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1222,7 +1226,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 13.059982, y: 11.554237, z: -307.18414, w: 22.420843}
+  m_margin: {x: 13.059982, y: 120.35163, z: 48.994324, w: 22.420843}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1635,7 +1639,7 @@ MonoBehaviour:
     topLeft: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
     topRight: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
     bottomLeft: {r: 0.6132076, g: 0.6132076, b: 0.6132076, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 0.6132076, g: 0.6132076, b: 0.6132076, a: 1}
   m_fontColorGradientPreset: {fileID: 0}
   m_spriteAsset: {fileID: 0}
   m_tintAllSprites: 0
@@ -1712,7 +1716,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1592486257
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1801,7 +1805,7 @@ RectTransform:
   m_GameObject: {fileID: 1636650311}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 10.181397, y: 0.7269874, z: 4.1556783}
+  m_LocalScale: {x: 9.101457, y: 0.6498759, z: 3.7148855}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 986439819}
@@ -1810,8 +1814,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0.000030517578, y: 169.33362}
-  m_SizeDelta: {x: 192, y: 288.7}
+  m_AnchoredPosition: {x: 25.165, y: 388.92}
+  m_SizeDelta: {x: 246.8307, y: 991.9672}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1636650313
 MonoBehaviour:
