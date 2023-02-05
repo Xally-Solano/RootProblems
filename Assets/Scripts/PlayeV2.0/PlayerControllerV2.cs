@@ -10,6 +10,11 @@ public class PlayerControllerV2 : MonoBehaviour
      public Rigidbody playerRB;
      public float Speed;
 
+    //Audio 
+     AudioSource playerAudio;
+     public AudioClip hitToPlayer;
+     public AudioClip hitToPatient;
+
     //Dano al paciente
 
     public float patientHP; //vida del paciente // numero de enemigos spawneados
@@ -33,6 +38,7 @@ public class PlayerControllerV2 : MonoBehaviour
         patientHP = 0f; //vida del paciente valor inicial
         requireNewEnemy = false;
         lifeIconsPlayer = FindObjectOfType<LifeIconsPlayer>();
+        playerAudio = GetComponent<AudioSource>();
 
     }
 
@@ -69,6 +75,8 @@ public class PlayerControllerV2 : MonoBehaviour
         {
             patientDamage = true;
 
+            playerAudio.PlayOneShot(hitToPatient, 0.1f);
+
             this.transform.Translate(Vector3.right * -(Input.GetAxis("Horizontal")));
             this.transform.Translate(Vector3.forward * -(Input.GetAxis("Vertical")));
         }
@@ -79,6 +87,8 @@ public class PlayerControllerV2 : MonoBehaviour
         {
             this.transform.Translate(Vector3.right * -(Input.GetAxis("Horizontal")));
             this.transform.Translate(Vector3.forward * -(Input.GetAxis("Vertical")));
+
+            playerAudio.PlayOneShot(hitToPlayer, 0.1f);
 
             playerDamage = true;
         }
