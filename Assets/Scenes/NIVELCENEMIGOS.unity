@@ -20,11 +20,11 @@ RenderSettings:
   m_FogDensity: 0.01
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
-  m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
+  m_AmbientSkyColor: {r: 0, g: 0, b: 0, a: 1}
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
   m_AmbientIntensity: 1
-  m_AmbientMode: 0
+  m_AmbientMode: 3
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
   m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
   m_HaloStrength: 0.5
@@ -150,7 +150,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 10642753}
   m_LocalRotation: {x: -0, y: -0.4604406, z: -0, w: 0.88769054}
-  m_LocalPosition: {x: 29.8, y: 1.2000002, z: 31.3}
+  m_LocalPosition: {x: 22.1, y: 1.2000002, z: 41.5}
   m_LocalScale: {x: 1.4949999, y: 1.4949998, z: 1.4949999}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1267,7 +1267,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1103210300}
   m_LocalRotation: {x: -0, y: -0.4604406, z: -0, w: 0.88769054}
-  m_LocalPosition: {x: -47, y: 1.2000002, z: 0.5}
+  m_LocalPosition: {x: -46.7, y: 1.2000002, z: -0.8}
   m_LocalScale: {x: 1.4949999, y: 1.4949998, z: 1.4949999}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1290,7 +1290,7 @@ MonoBehaviour:
   - {fileID: 4074877106398885314, guid: 0044d6593718808488c3515515f0bd99, type: 3}
   - {fileID: 374124099481772387, guid: 26de3b899eef74a0ebbfc2403981fe48, type: 3}
   - {fileID: 5410099449064750727, guid: fbbedbadd8a91a8468a76c4e1148963c, type: 3}
-  SpawnNumber: 7
+  SpawnNumber: 10
   rnd: 0
   lengthFP: 0
 --- !u!23 &1103210303
@@ -1539,11 +1539,11 @@ MonoBehaviour:
   - {fileID: 374124099481772387, guid: 26de3b899eef74a0ebbfc2403981fe48, type: 3}
   - {fileID: 5410099449064750727, guid: fbbedbadd8a91a8468a76c4e1148963c, type: 3}
   playerControllerV2: {fileID: 0}
-  timeBetweenEnemies: 2
+  timeBetweenEnemies: 3
   randomTimeIncrease: 0
   increaseSpawn: 0
   minSpawnTime: 0.65
-  maxNumItems: 15
+  maxNumItems: 23
   rnd: 0
   lengthFP: 0
   timeWaitNew: 1
@@ -2213,11 +2213,11 @@ MonoBehaviour:
   - {fileID: 374124099481772387, guid: 26de3b899eef74a0ebbfc2403981fe48, type: 3}
   - {fileID: 5410099449064750727, guid: fbbedbadd8a91a8468a76c4e1148963c, type: 3}
   playerControllerV2: {fileID: 0}
-  timeBetweenEnemies: 2
+  timeBetweenEnemies: 3
   randomTimeIncrease: 0
   increaseSpawn: 0
   minSpawnTime: 0.65
-  maxNumItems: 15
+  maxNumItems: 23
   rnd: 0
   lengthFP: 0
   timeWaitNew: 1
@@ -3382,8 +3382,8 @@ Camera:
   m_GameObject: {fileID: 2128474490}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -9231,8 +9231,6 @@ GameObject:
   - component: {fileID: 803244406817093986}
   - component: {fileID: 4383271046943685346}
   - component: {fileID: 2249031776399132798}
-  - component: {fileID: 4383271046943685348}
-  - component: {fileID: 4383271046943685347}
   m_Layer: 0
   m_Name: MainBody
   m_TagString: Enemigo
@@ -11467,35 +11465,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3509264537862472334}
   m_Mesh: {fileID: 279421182495509754, guid: 5d7f7dc33609cdf42b6011e8ac939fbf, type: 3}
---- !u!64 &4383271046943685347
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3509264537862472334}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 279421182495509754, guid: 5d7f7dc33609cdf42b6011e8ac939fbf, type: 3}
---- !u!114 &4383271046943685348
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3509264537862472334}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 59021e1ff44144e7a98b9c7f1348202d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rootHP: 8
-  rootDamage: 0
-  playerControllerV2: {fileID: 2028199313}
 --- !u!1 &4438765589119051196
 GameObject:
   m_ObjectHideFlags: 0
@@ -13917,6 +13886,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7022663283734145301}
+  - component: {fileID: 7655648363749487537}
+  - component: {fileID: 7655648363749487536}
   m_Layer: 0
   m_Name: Root
   m_TagString: Enemigo
@@ -13924,6 +13895,34 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!135 &7655648363749487536
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7655648363749487535}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 1.88
+  m_Center: {x: -1.42, y: -0.02, z: -1.09}
+--- !u!114 &7655648363749487537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7655648363749487535}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59021e1ff44144e7a98b9c7f1348202d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rootHP: 8
+  rootDamage: 0
+  playerControllerV2: {fileID: 2028199313}
 --- !u!64 &7767747000328375127
 MeshCollider:
   m_ObjectHideFlags: 0
