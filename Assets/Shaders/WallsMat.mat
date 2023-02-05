@@ -80,11 +80,7 @@ Material:
     - _Exposure: 1.3
     - _Float: 1
     - _Float_1: 0
-<<<<<<< Updated upstream
-    - _Health: 0
-=======
-    - _Health: 1.3031061
->>>>>>> Stashed changes
+    - _Health: 1.7012697
     - _Healthy: 0
     - _QueueControl: 0
     - _QueueOffset: 0
