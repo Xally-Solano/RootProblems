@@ -47,4 +47,9 @@ public class LoadScenes : MonoBehaviour
         Application.Quit();
     }
 
+    public void INTRO()
+    {
+        SceneManager.LoadScene("INTRO");
+    }
+
 }

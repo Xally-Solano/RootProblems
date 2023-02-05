@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/FINALES/TITLE_SCREEN.unity
     guid: 2add090c2378a3e45afcc697c92ac239
   - enabled: 1
+    path: Assets/Scenes/FINALES/INTRO.unity
+    guid: fb7ba34891791407fac6e45a6393bec8
+  - enabled: 1
     path: Assets/Scenes/FINALES/MAIN_MENU.unity
     guid: a5e76d416007044429ee2cfd751e3958
   - enabled: 1
