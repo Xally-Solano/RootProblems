@@ -49,7 +49,7 @@ NavMeshAgent:
   m_AgentTypeID: 0
   m_Radius: 0.5
   m_Speed: 3.5
-  m_Acceleration: 200
+  m_Acceleration: 100
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1.3
@@ -85,8 +85,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 303efe47127353947bd21e5d3fbd23c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dashSpeed: 1000
-  dashDistance: 10
+  dashSpeed: 250
+  dashDistance: 3
   dashDuration: 0.5
   coolDown: 5
 --- !u!65 &-1350527831611743994
@@ -128,7 +128,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fb2193031022af4ca85b1aa52790834, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
 --- !u!1001 &2196223595168003971
 PrefabInstance:
   m_ObjectHideFlags: 0

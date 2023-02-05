@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 2059364008157316778}
   m_Layer: 0
   m_Name: Projectile
-  m_TagString: Untagged
+  m_TagString: Enemigo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -116,6 +116,8 @@ MonoBehaviour:
   MinDistanceToEye: 10
   fireOrigin: {fileID: 0}
   fireDirection: {x: 0, y: 0, z: 0}
+  playerTag: Player
+  environmentTag: ParedCuerpo
 --- !u!54 &2059364008157316778
 Rigidbody:
   m_ObjectHideFlags: 0
