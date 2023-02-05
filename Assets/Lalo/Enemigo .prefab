@@ -67,6 +67,7 @@ MonoBehaviour:
   enemyDamage: 0
   hitToEnemy: {fileID: 8300000, guid: a11bfcc6963554f51827339a255435a3, type: 3}
   valorenfemmedad: 0.2
+  stain: {fileID: 3665516639115933451, guid: d10166bd1564f1041a46c556a3b996a8, type: 3}
 --- !u!114 &374124099481772395
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -11,6 +11,8 @@ public class EnemyDamage : MonoBehaviour
 
     public float valorenfemmedad = 0.3f;
 
+    [SerializeField] GameObject stain;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -58,6 +60,8 @@ public class EnemyDamage : MonoBehaviour
                 playerController.patientHP = playerController.patientHP - valorenfemmedad; //reduce barra de enfermedad
 
                 playerController.requireNewEnemy = true; //sE A
+
+                Instantiate(stain, transform.position, Quaternion.Euler(90, 0, 0));
                 Destroy(gameObject);
             }
         }
