@@ -10,9 +10,16 @@ public class EnemyShoot : MonoBehaviour
 
     public Transform ShootPivot;
     [SerializeField] float fireRate = 1f;
-    public Transform target;
+    Transform target;
 
     private float fireTimer = 0.0f;
+
+
+    private void Awake()
+    {
+        target = FindObjectOfType<PlayerControllerV2>().gameObject.transform;
+    }
+
     void Start()
     {
         StartCoroutine(CheckDistance());
