@@ -7,6 +7,7 @@ public class EnemySpawnCount : MonoBehaviour
 
     private GameObject player;
     private PlayerControllerV2 HumanHPScript;
+    public float valorenfemmedad = 0.3f;
 
     // Start is called before the first frame update
     void Start()
@@ -15,7 +16,7 @@ public class EnemySpawnCount : MonoBehaviour
 
         HumanHPScript = player.GetComponent<PlayerControllerV2>();
 
-        HumanHPScript.patientHP = HumanHPScript.patientHP + 1;
+        HumanHPScript.patientHP = HumanHPScript.patientHP + valorenfemmedad;
 
     }
 

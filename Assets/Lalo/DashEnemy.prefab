@@ -116,6 +116,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyHP: 1
   enemyDamage: 0
+  valorenfemmedad: 0.2
 --- !u!114 &1158307528587478993
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -128,6 +129,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fb2193031022af4ca85b1aa52790834, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  valorenfemmedad: 0.35
 --- !u!1001 &2196223595168003971
 PrefabInstance:
   m_ObjectHideFlags: 0

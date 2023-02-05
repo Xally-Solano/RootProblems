@@ -7,7 +7,8 @@ public class EnemyDamage : MonoBehaviour
     public int enemyHP; //Vida del enemigo
     public bool enemyDamage; //Bool para saber si dañas al enemigo
     PlayerControllerV2 playerController; //referencia al player controler
-    
+
+    public float valorenfemmedad = 0.3f;
 
     // Start is called before the first frame update
     void Start()
@@ -47,7 +48,7 @@ public class EnemyDamage : MonoBehaviour
             {
                 playerController.enemiesBeaten = playerController.enemiesBeaten + 1; //Aumenta el contador de enemiesBeaten del player controller
 
-                playerController.patientHP = playerController.patientHP - 1; //reduce barra de enfermedad
+                playerController.patientHP = playerController.patientHP - valorenfemmedad; //reduce barra de enfermedad
 
                 playerController.requireNewEnemy = true; //sE A
                 Destroy(gameObject);
