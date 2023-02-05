@@ -36,10 +36,7 @@ public class EnemyDamage : MonoBehaviour
         if (collision.CompareTag("Arma"))
         {
             enemyDamage = true;
-            if (!enemySound.isPlaying)
-            {
-                enemySound.Play();
-            } 
+           
         }
     }
 
@@ -49,6 +46,11 @@ public class EnemyDamage : MonoBehaviour
     {
         if (enemyDamage == true) 
         {
+            if (!enemySound.isPlaying)
+            {
+                enemySound.Play();
+            }
+
             enemyHP = enemyHP - 1;
             enemyDamage = false;
 
