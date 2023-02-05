@@ -33,7 +33,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: WallsMat
+  m_Name: WallsM
   m_Shader: {fileID: -6465566751694194690, guid: 817e1d358b5d66b43920776030d097de,
     type: 3}
   m_ValidKeywords: []
@@ -76,15 +76,11 @@ Material:
     - _AtmosphereThickness: 1
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
-    - _BackgroundScale: 2.62
+    - _BackgroundScale: 2.68
     - _Exposure: 1.3
     - _Float: 1
     - _Float_1: 0
-<<<<<<< HEAD
-    - _Health: 0.9336816
-=======
-    - _Health: 1.1583332
->>>>>>> 63e3de5aacba8c5bdf46b7e44f497a8d92a35645
+    - _Health: 0
     - _Healthy: 0
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -92,9 +88,9 @@ Material:
     - _SunDisk: 2
     - _SunSize: 0.04
     - _SunSizeConvergence: 5
-    - _WallNoise: 0.61
+    - _WallNoise: 0.292
     - _Walls: 1
-    - _WallsScale: 3.36
+    - _WallsScale: 3.67
     - __Health: 1.8
     m_Colors:
     - _GroundColor: {r: 0.36899996, g: 0.34899998, b: 0.34099993, a: 1}
