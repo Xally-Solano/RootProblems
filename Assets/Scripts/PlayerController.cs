@@ -101,11 +101,12 @@ public class PlayerController : MonoBehaviour
         {
             vidas = vidas - 1;
             playerDamage = false;  //poner la bool en false para que no reciba daño infinito
-
+            /*
             if (LifeIconsPlayer.iconsHPS != null)   //Si la lista de íconos de vida del player no está vacía
             {
-                LifeIconsPlayer.iconsHPS.reduceIcons();   //Llama a la variable static del script de iconos de vida 
-            }
+                LifeIconsPlayer.changelife(vidas);   //Llama a la variable static del script de iconos de vida 
+            }*/
+            //LifeIconsPlayer.changelife(vidas);
 
             //Perder por vida del jugador 
 

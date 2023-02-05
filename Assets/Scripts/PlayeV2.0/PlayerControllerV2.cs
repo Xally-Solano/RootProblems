@@ -30,6 +30,7 @@ public class PlayerControllerV2 : MonoBehaviour
     public bool playerDamage;
     public LifeIconsPlayer lifeIconsPlayer;
 
+    public int NumEnemiesHealthUP;
 
     // Start is called before the first frame update
     void Start()
@@ -55,6 +56,13 @@ public class PlayerControllerV2 : MonoBehaviour
         {
             Destroy(gameObject);
             SceneManager.LoadScene("LOOSESCREEN");
+        }
+
+        if (enemiesBeaten % NumEnemiesHealthUP == 0 && vidas < 6 && vidas > 0)
+        {
+            vidas = vidas +1;
+            enemiesBeaten = enemiesBeaten + 1;
+            lifeIconsPlayer.changelife(vidas);
         }
 
     }
@@ -116,10 +124,11 @@ public class PlayerControllerV2 : MonoBehaviour
 
     public void PlayerDamage()
     {
+        
             if (playerDamage == true)
             {
                 vidas = vidas - 1;
-                lifeIconsPlayer.reduceIcons();
+                lifeIconsPlayer.changelife(vidas);
                 playerDamage = false;
             }
 
