@@ -11,6 +11,8 @@ public class Projectile : MonoBehaviour
     public Vector3 fireDirection = new Vector3();
     public string playerTag = "Player";
     public string environmentTag = "ParedCuerpo";
+    public string armaTag = "Arma";
+
 
     private void Awake()
     {
@@ -58,6 +60,10 @@ public class Projectile : MonoBehaviour
         else if (collision.gameObject.CompareTag(playerTag))
         {
             Debug.Log("Damage to player!");
+            gameObject.SetActive(false);
+        }
+        else if (collision.gameObject.CompareTag(armaTag))
+        {
             gameObject.SetActive(false);
         }
     }
